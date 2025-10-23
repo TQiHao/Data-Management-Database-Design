@@ -2,8 +2,6 @@
 
 Database design assignment focusing on conceptual schema creation and relational schema transformation
 
-## Assignment Details
-- **Course**: CSIT115 Data Management and Security
 - **Focus**: Conceptual Schema Design & Relational Schema Transformation
 - **Tasks**: UML Class Diagrams & Database Normalization
 
